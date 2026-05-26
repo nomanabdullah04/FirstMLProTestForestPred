@@ -1,0 +1,12 @@
+flask
+flask-cors
+flask-login
+flask-wtf
+flask-migrate
+flask-sqlalchemy
+flask-restful
+flask-jsonpify
+flask-debugtoolbar
+numpy
+pandas
+scikit-learn
